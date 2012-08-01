@@ -4,7 +4,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Milkshake
+public class Milkshake05
 {
  public static Scanner kb;
  private static int MAXFLAVORS = 28;
